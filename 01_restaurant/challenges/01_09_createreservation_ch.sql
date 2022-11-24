@@ -5,8 +5,8 @@
 -- Sam McAdams (smac@kinetecoinc.com), for 5 people
 -- on August 12, 2022 at 6PM (18:00)
 
--- Kreiere eine Reservierung für einen Kunden, 
--- dessen Daten schon in unserer Datenbank sein könnten oder nicht.
+-- Erstellen Sie eine Reservierung für einen Kunden, 
+-- dessen Daten eventuell schon in unserer Datenbank sind - oder auch nicht.
 
 -- Die Reservierung ist für:
 -- Sam McAdams (smac@kinetecoinc.com), 5 Personen
