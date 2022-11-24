@@ -4,5 +4,5 @@
 -- attendance, and will bring 3 friends.
 
 
--- Registriere einen Kunden für unsere Jubiläumsfeier.
+-- Registrieren Sie einen Kunden für unsere Jubilaeumsfeier.
 -- Der Kunde wird mit drei Freunden an der Feier teilnehmen.
