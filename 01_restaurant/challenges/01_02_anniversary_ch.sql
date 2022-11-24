@@ -6,7 +6,7 @@
 
 -- Hint: SQLite offers the INTEGER and REAL datatypes
 
--- Erstelle eine neue Tabelle namens „Jubilaeum“ um die Antworten
+-- Erstellen Sie eine neue Tabelle namens „Jubilaeum“ um die Antworten
 -- der Kundinnen/Kunden auf unsere Einladung zu speichern.
 
 -- Die ID einer Kundin sollte der Anzahl der Personen, 
