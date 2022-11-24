@@ -7,5 +7,5 @@
 SELECT * FROM Dishes;
 SELECT * FROM Customers;
 
-ALTER TABLE BestellungSpeise
-RENAME COLUMN DishID TO SpeiseID;
+ALTER TABLE Reservierung
+RENAME COLUMN PartySize TO PartyGroesse;
