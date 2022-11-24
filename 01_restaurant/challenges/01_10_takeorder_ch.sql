@@ -8,8 +8,8 @@
 -- Delivery date and time: September 20, 2022 @ 2PM (14:00)
 -- There are no taxes or other fees.
 
--- Füge die Bestellung einer Kundin in unsere Datenbank
--- und stelle ihr die Gesamtkosten zur Verfügung
+-- Fuegen Sie die Bestellung einer Kundin in unsere Datenbank ein
+-- und stellen Sie ihr die Gesamtkosten bereit
 
 -- Bestellungsinformationen sind:
 -- Für: Loretta Hundey, 6939 Elka Place, 
