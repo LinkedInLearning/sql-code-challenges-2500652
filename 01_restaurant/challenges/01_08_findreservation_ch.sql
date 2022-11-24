@@ -6,7 +6,7 @@
 
 -- There are four people in the party. Today is June 14th.
 
--- Finde die Reservierung eines Kunden, 
+-- Finden Sie die Reservierung eines Kunden, 
 -- dessen Namen wir nicht genau buchstabieren können.
 
 -- Der Name hat unter anderem folgenede Variationen:
