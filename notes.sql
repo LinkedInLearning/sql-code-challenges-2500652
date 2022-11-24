@@ -7,4 +7,5 @@
 SELECT * FROM Dishes;
 SELECT * FROM Customers;
 
-
+ALTER TABLE Kunden
+RENAME COLUMN Address TO Adresse;
