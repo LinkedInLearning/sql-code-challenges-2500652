@@ -7,5 +7,5 @@
 SELECT * FROM Dishes;
 SELECT * FROM Customers;
 
-ALTER TABLE Events
-RENAME COLUMN Location TO Ort;
+ALTER TABLE CustomersDishes
+RENAME COLUMN DishID TO SpeiseID;
