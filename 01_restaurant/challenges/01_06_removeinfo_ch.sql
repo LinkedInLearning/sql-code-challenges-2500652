@@ -4,7 +4,7 @@
 -- be able to keep his Friday reservation. 
 -- Today is July 24, 2022.
 
--- Entferne eine ungültige Reservierung aus der Datenbank.
+-- Entfernen Sie eine ungueltige Reservierung aus der Datenbank.
 
 -- Ein Kunde namens Norby hat uns informiert, dass er seine Reservierung
--- stornieren möchte. Heute ist der 24.Juli 2022.
+-- stornieren moechte. Heute ist der 24.Juli 2022.
