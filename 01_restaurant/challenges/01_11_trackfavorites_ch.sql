@@ -5,5 +5,5 @@
 
 -- Update Informationen in der Datenbank
 
--- Trage Cleo Goldwaters Lieblingsgericht 
+-- Tragen Sie Cleo Goldwaters Lieblingsgericht 
 -- als "Quinoa Salmon Salad" ein.
