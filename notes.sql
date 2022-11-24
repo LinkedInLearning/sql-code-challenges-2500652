@@ -7,5 +7,5 @@
 SELECT * FROM Dishes;
 SELECT * FROM Customers;
 
-ALTER TABLE Speise
-RENAME COLUMN Type TO Typ;
+ALTER TABLE Bestellungen
+RENAME COLUMN OrderDate TO BestellungsDatum;
