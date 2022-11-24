@@ -7,5 +7,5 @@
 SELECT * FROM Dishes;
 SELECT * FROM Customers;
 
-ALTER TABLE Kunden
-RENAME COLUMN CustomerID TO KundenID;
+ALTER TABLE Speise
+RENAME COLUMN Type TO Typ;
