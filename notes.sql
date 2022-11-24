@@ -7,5 +7,5 @@
 SELECT * FROM Dishes;
 SELECT * FROM Customers;
 
-ALTER TABLE Reservierung
-RENAME COLUMN PartySize TO PartyGroesse;
+ALTER TABLE Events
+RENAME COLUMN Location TO Ort;
