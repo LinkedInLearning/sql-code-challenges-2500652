@@ -7,5 +7,5 @@
 SELECT * FROM Dishes;
 SELECT * FROM Customers;
 
-ALTER TABLE Mitglieder
-RENAME COLUMN LastName TO Nachname;
+ALTER TABLE Buecher
+RENAME COLUMN Published TO Erscheinungsdatum;
