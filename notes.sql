@@ -7,5 +7,5 @@
 SELECT * FROM Dishes;
 SELECT * FROM Customers;
 
-ALTER TABLE Bestellungen
-RENAME COLUMN OrderDate TO BestellungsDatum;
+ALTER TABLE BestellungSpeise
+RENAME COLUMN DishID TO SpeiseID;
