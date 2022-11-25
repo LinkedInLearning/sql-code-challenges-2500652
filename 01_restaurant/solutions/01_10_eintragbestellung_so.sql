@@ -1,4 +1,4 @@
--- Enter a customer's delivery order into our database, 
+/*Enter a customer's delivery order into our database, 
 -- and provide the total cost of the items ordered.
 
 -- Use this order information:
@@ -8,7 +8,7 @@
 -- Delivery date and time: September 20, 2022 @ 2PM (14:00)
 -- There are no taxes or other fees.
 
-/*SELECT CustomerID, FirstName, LastName, Phone 
+SELECT CustomerID, FirstName, LastName, Phone 
 FROM Customers
 WHERE Address = '6939 Elka Place' AND LastName = 'Hundey';
 

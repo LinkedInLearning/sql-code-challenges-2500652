@@ -1,9 +1,9 @@
--- Update information in the database.
+/*Update information in the database.
 
 -- Set Cleo Goldwater's favorite dish to
 -- the Quinoa Salmon Salad.
 
-/*SELECT DishID 
+SELECT DishID 
 FROM Dishes 
 WHERE Name = 'Quinoa Salmon Salad';
 
