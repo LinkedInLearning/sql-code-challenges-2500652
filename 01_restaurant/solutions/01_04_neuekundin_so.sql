@@ -5,7 +5,13 @@
 -- 479 Lapis Dr., Memphis, TN
 -- Phone: (555) 555-1212; Birthday: July 21, 1973
 
-INSERT INTO Customers (FirstName, LastName, Email, Address, City, State, Phone, Birthday) 
+/*INSERT INTO Customers (FirstName, LastName, Email, Address, City, State, Phone, Birthday) 
 VALUES ('Anna', 'Smith', 'asmith@samoca.org', '479 Lapis Dr.', 'Memphis', 'TN', '555-555-1212', '1973-07-21');
 
-SELECT * FROM Customers ORDER BY CustomerID DESC;
+SELECT * FROM Customers ORDER BY CustomerID DESC;*/
+
+INSERT INTO Kunden (Vorname, Nachname, Email, Adresse, Stadt, State, Telefon, Geburtstag) 
+VALUES ('Anna', 'Smith', 'asmith@samoca.org', '479 Lapis Dr.', 'Memphis', 'TN', '555-555-1212', '1973-07-21');
+
+SELECT * FROM Kunden ORDER BY KundenID DESC;
+
