@@ -3,6 +3,10 @@
 -- Show their first name, last name, and email address.
 -- Sort the list of results by last name.
 
-SELECT FirstName, LastName, Email 
+/*SELECT FirstName, LastName, Email 
 FROM Customers 
-ORDER BY LastName;
+ORDER BY LastName;*/
+
+SELECT Vorname, Nachname, Email 
+FROM Kunden 
+ORDER BY Nachname;
