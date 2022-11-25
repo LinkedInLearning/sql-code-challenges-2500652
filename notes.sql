@@ -2,10 +2,13 @@
 -- and for demonstrating how to work
 -- with SQLite in Codespaces.
 
+/*
+DE
+*/
+
 -- These two statements operate on the 
 -- restaurant.db SQLite database.
-SELECT * FROM Dishes;
-SELECT * FROM Customers;
+SELECT * FROM Speise;
+SELECT * FROM Kunden;
 
-ALTER TABLE Buecher
-RENAME COLUMN Published TO Erscheinungsdatum;
+
