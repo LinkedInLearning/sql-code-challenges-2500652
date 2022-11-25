@@ -8,7 +8,7 @@
 -- Delivery date and time: September 20, 2022 @ 2PM (14:00)
 -- There are no taxes or other fees.
 
-SELECT CustomerID, FirstName, LastName, Phone 
+/*SELECT CustomerID, FirstName, LastName, Phone 
 FROM Customers
 WHERE Address = '6939 Elka Place' AND LastName = 'Hundey';
 
@@ -33,4 +33,31 @@ WHERE OrdersDishes.OrderID = 1001;
 SELECT SUM(Dishes.Price) 
 FROM Dishes 
 JOIN OrdersDishes ON Dishes.DishID = OrdersDishes.DishID 
-WHERE OrdersDishes.OrderID = 1001;
+WHERE OrdersDishes.OrderID = 1001; */
+
+SELECT KundenID, Vorname, Nachname, Telefon 
+FROM Kunden
+WHERE Adresse = '6939 Elka Place' AND Nachname = 'Hundey';
+
+INSERT INTO Bestellungen (KundenID, BestellungsDatum) 
+VALUES (70, '2022-09-20 14:00:00');
+
+SELECT * 
+FROM Bestellungen 
+WHERE KundenID = 70
+ORDER BY BestellungsDatum DESC;
+
+INSERT INTO BestellungSpeise (BestellungsID, SpeiseID) VALUES
+(1001, (SELECT SpeiseID FROM Speise WHERE Name = 'House Salad')),
+(1001, (SELECT SpeiseID FROM Speise WHERE Name = 'Mini Cheeseburgers')),
+(1001, (SELECT SpeiseID FROM Speise WHERE Name = 'Tropical Blue Smoothie'));
+
+SELECT * 
+FROM Speise 
+JOIN BestellungSpeise ON Speise.SpeiseID = BestellungSpeise.SpeiseID 
+WHERE BestellungSpeise.SpeiseID  = 1001;
+
+SELECT SUM(Speise.Preis) 
+FROM Speise 
+JOIN BestellungSpeise ON Speise.SpeiseID = BestellungSpeise.SpeiseID 
+WHERE BestellungSpeise.SpeiseID = 1001;
