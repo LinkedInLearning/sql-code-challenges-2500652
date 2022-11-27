@@ -48,3 +48,5 @@ WHERE BuchID =
   (SELECT BuchID FROM Buecher 
   WHERE Barcode = '8730298424')
   AND RueckgabeDatum IS NULL;
+
+
