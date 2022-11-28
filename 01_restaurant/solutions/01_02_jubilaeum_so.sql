@@ -6,12 +6,6 @@
 
 -- Tipp: SQLite hat zwei verschiedene Zahlen-Datentypen INTEGER und REAL.
 
-/*
-CREATE TABLE AnniversaryAttendees (
-  CustomerID INTEGER,
-  PartySize INTEGER
-);*/
-
 CREATE TABLE TeilnahmeJubilaeum (
   KundenID INTEGER,
   PartyGroesse INTEGER
