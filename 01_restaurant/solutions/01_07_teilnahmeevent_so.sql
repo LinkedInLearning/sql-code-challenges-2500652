@@ -1,8 +1,8 @@
-/* Register a customer for our Anniversary event.
+-- Registrieren Sie einen Kunden 'atapley2j@kinetecoinc.com' 
+-- für unsere Jubilaeumsfeier.
+-- Der Kunde wird mit drei Freunden an der Feier teilnehmen.
 
--- The customer 'atapley2j@kinetecoinc.com' will be in
--- attendance, and will bring 3 friends.
-
+/* 
 INSERT INTO AnniversaryAttendees
   (CustomerID, PartySize) 
 VALUES (

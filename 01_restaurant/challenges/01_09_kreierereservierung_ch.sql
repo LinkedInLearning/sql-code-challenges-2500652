@@ -3,4 +3,4 @@
 
 -- Die Reservierung ist für:
 -- Sam McAdams (smac@kinetecoinc.com), 5 Personen
--- August 12, 2022 at 6PM (18:00)
+-- August 12, 2022 @ 6PM (18:00)
