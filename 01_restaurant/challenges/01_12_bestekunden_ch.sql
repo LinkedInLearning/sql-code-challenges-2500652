@@ -1,11 +1,7 @@
--- Identify a few customers who have ordered delivery
--- from the restaurant the most often, so we can send
--- them a promotional coupon.
 
-/*
-- Erstelle eine Liste von Kundinnen/Kunden,
-  die die meisten Bestellungen abgegeben haben.
+-- Erstellen Sie eine Liste von Kundinnen/Kunden,
+-- die die meisten Bestellungen abgegeben haben,
+-- sodass wir ihnen einen Coupon schenken können.
 
-- Gebe die Anzahl der Bestellungen, 
-  den Vornamen, Nachnamen sowie die Email-Adresse an.
-*/
+-- Geben Sie die Anzahl der Bestellungen, 
+-- den Vornamen, Nachnamen sowie die Email-Adresse an.

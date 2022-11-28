@@ -1,11 +1,4 @@
--- Update information in the database.
+-- Updaten Sie die Informationen in der Datenbank.
 
--- Set Cleo Goldwater's favorite dish to
--- the Quinoa Salmon Salad.
-
-/*
-- Update Informationen in der Datenbank.
-
-- Trage Cleo Goldwaters Lieblingsgericht 
-  als "Quinoa Salmon Salad" ein.
-*/
+-- Tragen Sie Cleo Goldwaters Lieblingsgericht 
+-- als "Quinoa Salmon Salad" ein.
