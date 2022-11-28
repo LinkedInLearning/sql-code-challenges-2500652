@@ -1,7 +1,3 @@
--- Determine how many copies of the book 'Dracula'
--- are available for library patrons to borrow.
+-- Finden Sie heraus wie viele Kopien von 
+-- „Dracula“ im Moment verfügbar sind.
 
-/*
-- Finde heraus wie viele Kopien von 
-  „Dracula“ im Moment verfügbar sind.
-*/
