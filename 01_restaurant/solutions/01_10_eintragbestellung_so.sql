@@ -1,13 +1,12 @@
-/*Enter a customer's delivery order into our database, 
--- and provide the total cost of the items ordered.
+-- Fuegen Sie die Bestellung einer Kundin in unsere Datenbank ein
+-- und stellen Sie ihr die Gesamtkosten bereit
 
--- Use this order information:
--- Customer: Loretta Hundey, at 6939 Elka Place
--- Items: 1 House Salad, 1 Mini Cheeseburgers, and
--- 1 Tropical Blue Smoothie
--- Delivery date and time: September 20, 2022 @ 2PM (14:00)
--- There are no taxes or other fees.
+-- Bestellungsinformationen sind:
+-- Für: Loretta Hundey, 6939 Elka Place, 
+-- Im Einkaufskorb: 1 House Salad, 1 Mini Cheeseburgers, 1 Tropical Blue Smoothie,
+-- Lieferdatum und Zeit: September 20, 2022, @2PM (14:00)
 
+/*
 SELECT CustomerID, FirstName, LastName, Phone 
 FROM Customers
 WHERE Address = '6939 Elka Place' AND LastName = 'Hundey';

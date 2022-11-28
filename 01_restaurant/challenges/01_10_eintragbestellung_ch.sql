@@ -3,5 +3,5 @@
 
 -- Bestellungsinformationen sind:
 -- Für: Loretta Hundey, 6939 Elka Place, 
--- Im Korb: 1 House Salad, 1 Mini Cheeseburgers, 1 Tropical Blue Smoothie,
+-- Im Einkaufskorb: 1 House Salad, 1 Mini Cheeseburgers, 1 Tropical Blue Smoothie,
 -- Lieferdatum und Zeit: September 20, 2022, @2PM (14:00)
