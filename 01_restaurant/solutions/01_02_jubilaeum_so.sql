@@ -15,4 +15,3 @@ CREATE TABLE TeilnahmeJubilaeum (
   KundenID INTEGER,
   PartyGroesse INTEGER
 );
-
