@@ -1,19 +1,7 @@
--- Enter a customer's delivery order into our database, 
--- and provide the total cost of the items ordered.
+-- Fuegen Sie die Bestellung einer Kundin in unsere Datenbank ein
+-- und stellen Sie ihr die Gesamtkosten bereit
 
--- Use this order information:
--- Customer: Loretta Hundey, at 6939 Elka Place
--- Items: 1 House Salad, 1 Mini Cheeseburgers, and
--- 1 Tropical Blue Smoothie
--- Delivery date and time: September 20, 2022 @ 2PM (14:00)
--- There are no taxes or other fees.
-
-/*
-- Füge die Bestellung einer Kundin in unsere Datenbank hinzu
-  und stelle ihr die Gesamtkosten zur Verfügung.
-
-- Bestellungsinformationen sind:
-- Für: Loretta Hundey, 6939 Elka Place, 
-  House Salad, Mini Cheeseburgers, Tropical Blue Smoothie,
-  September 20, 2022, 2PM
-*/
+-- Bestellungsinformationen sind:
+-- Für: Loretta Hundey, 6939 Elka Place, 
+-- Im Korb: 1 House Salad, 1 Mini Cheeseburgers, 1 Tropical Blue Smoothie,
+-- Lieferdatum und Zeit: September 20, 2022, @2PM (14:00)
