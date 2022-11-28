@@ -1,14 +1,6 @@
--- Create reports that will be used to make three menus.
+-- Kreieren Sie eine Liste, die verwendet wird um drei Menues zu erstellen.
 
--- Create a report with all the items sorted by price (lowest to highest).
--- Create a report showing appetizers and beverages.
--- Create a report with all items except beverages.
-
-/*
-- Kreiere eine Liste, das verwendet wird um drei Menus zu erstellen.
-
-- Kreiere eine Liste aller Speisen. Sortiere nach dem Preis beginnend beim niedrigsten.
-- Kreiere eine Liste von Vorspeisen und Getränken.
-- Kreiere eine Liste von dem ganzen Angebot ausgenommen Getränke.
-- Die letzten beiden Menüs sollen nach Gericht-Art sortiert sein.
-*/
+-- Kreieren Sie eine Liste aller Speisen. Sortieren Sie diese nach dem Preis beginnend beim niedrigsten.
+-- Kreieren Sie eine Liste von Vorspeisen und Getraenken.
+-- Kreieren Sie eine Liste des ganzen Angebots ausgenommen der Getränke.
+-- Die letzten beiden Menues sollen nach Gericht-Art sortiert sein.
