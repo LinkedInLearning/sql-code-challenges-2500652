@@ -1,2 +1,2 @@
 -- Erstellen Sie eine Liste von Mitgliedern, 
---  die am wenigsten/seltensten Bücher ausgeliehen haben.
+-- die am wenigsten/seltensten Bücher ausgeliehen haben.
