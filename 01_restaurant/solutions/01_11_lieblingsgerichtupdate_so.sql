@@ -17,10 +17,6 @@ UPDATE Kunden
 SET LieblingsGericht = 9 
   WHERE KundenID = 42; 
 
-/*
-UPDATE Kunden 
-  SET LieblingsGericht = (SELECT SpeiseID FROM Speise WHERE Name = 'Quinoa Salmon Salad') 
-  WHERE KundenID = 42; MA don't like this, left out in the script*/
 
 SELECT Kunden.Vorname, Kunden.Nachname, Kunden.LieblingsGericht, Speise.Name 
 FROM Kunden 
