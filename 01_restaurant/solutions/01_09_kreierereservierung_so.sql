@@ -10,8 +10,8 @@ FROM Kunden
 WHERE Email = 'smac@kinetecoinc.com';
 
 INSERT INTO Kunden 
-(Vorname, Nachname, Email, Telefon) VALUES 
-('Sam', 'McAdams', 'smac@kinetecoinc.com', '(555) 555-1232');
+(Vorname, Nachname, Email, Telefon) 
+VALUES ('Sam', 'McAdams', 'smac@kinetecoinc.com', '(555) 555-1232');
 
 SELECT * 
 FROM Kunden 
