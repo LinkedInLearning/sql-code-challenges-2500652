@@ -14,7 +14,7 @@ WHERE Adresse = '6939 Elka Place' AND Nachname = 'Hundey';
 INSERT INTO Bestellungen (KundenID, BestellungsDatum) 
 VALUES (70, '2022-09-20 14:00:00');
 
-SELECT * 
+SELECT *  
 FROM Bestellungen 
 WHERE KundenID = 70
 ORDER BY BestellungsDatum DESC;
