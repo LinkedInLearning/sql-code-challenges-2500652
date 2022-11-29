@@ -5,13 +5,6 @@
 -- Stevensen, Stephensen, Stevenson, Stephenson, Stuyvesant
 -- Heute ist der 14.Juni.
 
-/* 
-SELECT Customers.FirstName, Customers.LastName, Reservations.Date, Reservations.PartySize
-FROM Reservations
-JOIN Customers ON Customers.CustomerID = Reservations.CustomerID
-WHERE Customers.LastName LIKE 'St%'
-AND PartySize = 4
-ORDER BY Reservations.Date DESC; */
 
 SELECT Kunden.Vorname, Kunden.Nachname, Reservierung.Datum, Reservierung.PartyGroesse
 FROM Reservierung
