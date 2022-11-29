@@ -14,14 +14,10 @@ WHERE Adresse = '6939 Elka Place' AND Nachname = 'Hundey';
 INSERT INTO Bestellungen (KundenID, BestellungsDatum) 
 VALUES (70, '2022-09-20 14:00:00');
 
-select * from Bestellungen where KundenID = 70
-
 SELECT * 
 FROM Bestellungen 
 WHERE KundenID = 70
 ORDER BY BestellungsDatum DESC;
-
-select * from Speise
 
 INSERT INTO BestellungSpeise (BestellungsID, SpeiseID) 
 VALUES(1001, (SELECT SpeiseID FROM Speise WHERE Name = 'House Salad')),
