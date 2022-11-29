@@ -5,7 +5,7 @@
 -- Für: Loretta Hundey, 6939 Elka Place, 
 -- Im Einkaufskorb: 1 House Salad, 1 Mini Cheeseburgers, 1 Tropical Blue Smoothie,
 -- Lieferdatum und Zeit: September 20, 2022, @2PM (14:00)
-
+--ma
 
 SELECT KundenID, Vorname, Nachname, Telefon 
 FROM Kunden
@@ -33,4 +33,4 @@ WHERE BestellungSpeise.BestellungsID  = 1001;
 SELECT SUM(Speise.Preis) 
 FROM Speise 
 JOIN BestellungSpeise ON Speise.SpeiseID = BestellungSpeise.SpeiseID 
-WHERE BestellungSpeise.SpeiseID = 1001;
+WHERE BestellungSpeise.BestellungsID = 1001;
