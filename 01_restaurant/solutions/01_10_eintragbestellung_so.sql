@@ -14,20 +14,25 @@ WHERE Adresse = '6939 Elka Place' AND Nachname = 'Hundey';
 INSERT INTO Bestellungen (KundenID, BestellungsDatum) 
 VALUES (70, '2022-09-20 14:00:00');
 
+select * from Bestellungen where KundenID = 70
+
 SELECT * 
 FROM Bestellungen 
 WHERE KundenID = 70
 ORDER BY BestellungsDatum DESC;
 
-INSERT INTO BestellungSpeise (BestellungsID, SpeiseID) VALUES
-(1001, (SELECT SpeiseID FROM Speise WHERE Name = 'House Salad')),
+select * from Speise
+
+INSERT INTO BestellungSpeise (BestellungsID, SpeiseID) 
+VALUES(1001, (SELECT SpeiseID FROM Speise WHERE Name = 'House Salad')),
 (1001, (SELECT SpeiseID FROM Speise WHERE Name = 'Mini Cheeseburgers')),
 (1001, (SELECT SpeiseID FROM Speise WHERE Name = 'Tropical Blue Smoothie'));
 
-SELECT * 
+SELECT *  
 FROM Speise 
 JOIN BestellungSpeise ON Speise.SpeiseID = BestellungSpeise.SpeiseID 
-WHERE BestellungSpeise.SpeiseID  = 1001;
+WHERE BestellungSpeise.BestellungsID  = 1001;
+
 
 SELECT SUM(Speise.Preis) 
 FROM Speise 
