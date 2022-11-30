@@ -1,5 +1,5 @@
--- Erstellen Sie eine Liste von Mitgliedern, 
---  die am wenigsten/seltensten Bücher ausgeliehen haben.
+-- Erstellen Sie eine Liste von Mitgliedern,  
+-- die am seltensten Bücher ausgeliehen haben. 
 
 /*
 SELECT COUNT(Loans.LoanID) AS LoanCount, Patrons.FirstName, Patrons.Email

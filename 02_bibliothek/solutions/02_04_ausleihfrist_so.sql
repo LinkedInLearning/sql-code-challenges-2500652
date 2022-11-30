@@ -1,6 +1,6 @@
--- Erstellen Sie eine Liste von Büchern, dessen Ausleihfrist am 13. Juli 2022 endet.
--- Diese Liste soll auch den Namen des Ausleihers,
--- sowie dessen Email-Adresse enthalten.
+-- Erstellen Sie eine Liste von Büchern, deren Ausleihfrist am 13. Juli 2022 endet. 
+-- Diese Liste soll auch den Namen der ausleihenden Person, 
+-- sowie deren Email-Adresse enthalten. 
 
 /*
 SELECT Loans.DueDate, Books.Title, Patrons.FirstName, Patrons.Email
