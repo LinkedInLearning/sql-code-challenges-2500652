@@ -3,37 +3,6 @@
 -- Das Ausleihdatum ist der 25. August 2022  
 --  und die Ausleihfrist endet am 8. September.
 
-/*
-INSERT INTO Loans (BookID, PatronID, LoanDate, DueDate)
-VALUES (
-  (SELECT BookID 
-    FROM Books 
-    WHERE Barcode = '2855934983'), 
-  (SELECT PatronID 
-    FROM Patrons 
-    WHERE Email = 'jvaan@wisdompets.com'),
-  '2022-08-25',
-  '2022-09-08');
-
-INSERT INTO Loans (BookID, PatronID, LoanDate, DueDate)
-VALUES (
-  (SELECT BookID 
-    FROM Books 
-    WHERE Barcode = '4043822646'), 
-  (SELECT PatronID 
-    FROM Patrons 
-    WHERE Email = 'jvaan@wisdompets.com'), 
-  '2022-08-25', 
-  '2022-09-08');
-
-SELECT * 
-FROM Loans 
-JOIN Books ON Loans.BookID = Books.BookID 
-WHERE PatronID = (
-  SELECT PatronID 
-  FROM Patrons 
-  WHERE Email = 'jvaan@wisdompets.com');
-  */
 
   INSERT INTO Ausleihung (BuchID, MitgliedsID, AusleihDatum, Rueckgabefrist)
 VALUES (
