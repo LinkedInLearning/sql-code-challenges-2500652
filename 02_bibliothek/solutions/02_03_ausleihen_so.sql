@@ -3,7 +3,6 @@
 -- Das Ausleihdatum ist der 25. August 2022  
 --  und die Ausleihfrist endet am 8. September.
 
-
   INSERT INTO Ausleihung (BuchID, MitgliedsID, AusleihDatum, Rueckgabefrist)
 VALUES (
   (SELECT BuchID 
