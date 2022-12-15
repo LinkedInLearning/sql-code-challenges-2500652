@@ -1,0 +1,4 @@
+-- Leihen Sie die Bücher „The Picture of Dorian Gray“ 
+--  und „Great Expectations“ an Jack Vaan aus. 
+-- Das Ausleihdatum ist der 25. August 2022  
+--  und die Ausleihfrist endet am 8. September.
