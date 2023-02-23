@@ -36,12 +36,12 @@ Dieses Problem lösen Sie wie folgt:
 
 ### Autor
 
-**[Name hier eintragen]**
+**Scott Simpson und Makbule Asir**
 
 _[Berufsbezeichnung hier eintragen]_
 
-Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/name_des_autors) an.
+Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/makbule-asir) an.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-course-url]: https://www.linkedin.com/learning/code-challenges-fur-sql
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQEpXyJeVF-5ag/learning-public-crop_675_1200/0/1676983614264?e=1677758400&v=beta&t=eECZDkNrCsTi4D6xpOyhVz5qlfnJeMe6quLukCdyBaE
