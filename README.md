@@ -1,4 +1,4 @@
-# [DE-Kursname hier eintragen]
+# [Code Challenges für SQL]
 
 Dies ist das Repository für den **LinkedIn Learning** Kurs `[Code Challenges für SQL]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
