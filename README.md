@@ -2,9 +2,10 @@
 
 Dies ist das Repository für den **LinkedIn Learning** Kurs `[Code Challenges für SQL]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-![COURSENAME][lil-thumbnail-url]
+![image](https://user-images.githubusercontent.com/71371373/220902374-a0cebbf6-1a11-4ea2-8248-f0744e069f7c.png)
 
-[COURSEDESCRIPTION]
+Möchten Sie Ihre SQL-Kenntnisse testen? Mit diesen kompakten Aufgaben können Sie Ihr Wissen erweitern und Ihre Fähigkeiten testen. Makbule Asir, stellt Ihnen, basierend auf einem Kurs von Scott Simpson, praktische Übungen zu  typischen Aufgabenstellungen im SQL-Kontext. Dabei ist jede Aufgabe in ein praxisnahes Szenario eingebettet: Eine Restaurant-Website, die Reservierungen und Online-Bestellungen entgegennimmt und ein Verleihsystem einer Bibliothek. Natürlich erhalten Sie für jede Aufgabe auch eine Besipiellösung, anhand derer Sie Ihr Wissen überprüfen oder verbessern können.<br><br>
+Dieser Kurs zeichnet sich durch eine nahtlose Integration in GitHub Codespaces, einer cloudbasierten Entwicklungsumgebung (IDE), aus. Sie müssen keinen lokalen Rechner einrichten und können sofort loslegen.
 
 ## Anleitung
 
@@ -28,11 +29,7 @@ Dieses Problem lösen Sie wie folgt:
     Commit changes using this command: git commit -m "some message"
 
 ## Installation
-
-1. Um diese Übungsdateien nutzen zu können, müssen Sie folgendes installiert haben:
-   - [list of requirements for course]
-2. Klonen Sie das Repository in Ihre lokale Maschine unter Verwendung von terminal (Mac), CMD (Windows) oder ein anderes Werkzeug mit grafischer Bedienoberfläche wie SourceTree.
-3. [Course-specific instructions]
+Dieser Kurs ist in GitHub Codespaces integriert, eine sofort verfügbare Cloud-Entwicklungsumgebung, die alle Funktionen Ihrer bevorzugten IDE bietet, ohne dass Sie einen lokalen Rechner einrichten müssen. Mit Codespaces können Sie von jedem Rechner aus und zu jeder Zeit praktische Übungen durchführen - und dabei ein Tool verwenden, das Ihnen häufig in der Praxis begegnen wird. Sehen Sie sich das Video "Wie verwende ich GitHub Codespaces mit diesem Kurs?" an, um zu erfahren, wie Sie anfangen können.   
 
 ### Autor
 
@@ -43,5 +40,5 @@ _IT-Trainer, Softwareentwickler und Data Scientistin_
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/makbule-asir) an.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/code-challenges-fur-sql
+[lil-course-url]: https://www.linkedin.com/learning/code-challenges-fur-sql/trailer
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQEpXyJeVF-5ag/learning-public-crop_675_1200/0/1676983614264?e=1677758400&v=beta&t=eECZDkNrCsTi4D6xpOyhVz5qlfnJeMe6quLukCdyBaE
