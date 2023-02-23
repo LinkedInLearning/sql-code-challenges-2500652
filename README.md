@@ -2,7 +2,7 @@
 
 Dies ist das Repository für den **LinkedIn Learning** Kurs `[Code Challenges für SQL]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-![COURSENAME][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
+![COURSENAME][lil-thumbnail-url]
 
 [COURSEDESCRIPTION]
 
