@@ -38,7 +38,7 @@ Dieses Problem lösen Sie wie folgt:
 
 **Scott Simpson und Makbule Asir**
 
-_[Berufsbezeichnung hier eintragen]_
+_IT-Trainer, Softwareentwickler und Data Scientistin_
 
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/makbule-asir) an.
 
