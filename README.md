@@ -1,8 +1,8 @@
-# [Code Challenges für SQL]
+# Code Challenges für SQL
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs `[Code Challenges für SQL]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs `Code Challenges für SQL`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-![image](https://user-images.githubusercontent.com/71371373/220902374-a0cebbf6-1a11-4ea2-8248-f0744e069f7c.png)
+![COURSENAME][lil-thumbnail-url] 
 
 Möchten Sie Ihre SQL-Kenntnisse testen? Mit diesen kompakten Aufgaben können Sie Ihr Wissen erweitern und Ihre Fähigkeiten testen. Makbule Asir, stellt Ihnen, basierend auf einem Kurs von Scott Simpson, praktische Übungen zu  typischen Aufgabenstellungen im SQL-Kontext. Dabei ist jede Aufgabe in ein praxisnahes Szenario eingebettet: Eine Restaurant-Website, die Reservierungen und Online-Bestellungen entgegennimmt und ein Verleihsystem einer Bibliothek. Natürlich erhalten Sie für jede Aufgabe auch eine Besipiellösung, anhand derer Sie Ihr Wissen überprüfen oder verbessern können.<br><br>
 Dieser Kurs zeichnet sich durch eine nahtlose Integration in GitHub Codespaces, einer cloudbasierten Entwicklungsumgebung (IDE), aus. Sie müssen keinen lokalen Rechner einrichten und können sofort loslegen.
@@ -41,4 +41,4 @@ Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linke
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/code-challenges-fur-sql/trailer
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQEpXyJeVF-5ag/learning-public-crop_675_1200/0/1676983614264?e=1677758400&v=beta&t=eECZDkNrCsTi4D6xpOyhVz5qlfnJeMe6quLukCdyBaE
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQEpXyJeVF-5ag/learning-public-crop_675_1200/0/1676983614264?e=2147483647&v=beta&t=sRz5VugyD8MY7fk5vilkVNR5BuDCIYHYvS1HknOQ2Co
